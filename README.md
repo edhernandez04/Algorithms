@@ -47,7 +47,5 @@ Contributions are what make the open source community such an amazing place to b
 
 Ed Hernandez - [Ed@cachetechnologies.nyc](mailto:ed@cachetechnologies.nyc)
 
-Project Link: [https://github.com/edhernandez04/SangriaCafe](https://github.com/edhernandez04/SangriaCafe)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
